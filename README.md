@@ -9,32 +9,12 @@
 <table>
   <tr>
     <td align="center" width="200">
-      <a href="https://get.brightdata.com/mcpservers">
-        <img src="https://mintlify.s3.us-west-1.amazonaws.com/brightdata/logo/light.svg" width="200" alt="Bright Data Logo">
-      </a>
-    </td>
-    <td>
-      <a href="https://get.brightdata.com/mcpservers">Access reliable, real-time or historical web data at scale with Bright Data MCP. Enjoy 5,000 MCP requests every month - for free</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="200">
       <a href="https://mcp.alphavantage.co/">
         <img src="assets/alpha-vantage.png" width="200" alt="Alpha Vantage Logo">
       </a>
     </td>
     <td>
       <a href="https://mcp.alphavantage.co/">Alpha Vantage MCP Server - Access financial market data: realtime & historical stock, ETF, options, forex, crypto, commodities, fundamentals, technical indicators, & more</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="200">
-      <a href="https://kone.vc/?utm_source=mcpservers">
-        <img src="https://kone.vc/logo.svg" width="140" alt="Kone.vc Logo">
-      </a>
-    </td>
-    <td>
-      <a href="https://kone.vc/?utm_source=mcpservers">Monetize your AI agent with contextual product recommendations</a>
     </td>
   </tr>
 </table>
@@ -440,6 +420,7 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[llm-context](https://github.com/cyberchitta/llm-context.py)** - Share code context with LLMs via Model Context Protocol or clipboard.
 - **[LunchMoney](https://github.com/akutishevsky/lunchmoney-mcp)** - MCP server for LunchMoney personal finance and budgeting tool.
 - **[Local History MCP](https://github.com/xxczaki/local-history-mcp)** – MCP server for accessing VS Code/Cursor's Local History.
+- **[Statsnet](https://github.com/usenetstate/statsnet-mcp)** - Background check any company in the world: registration, executives, courts and finances. REMOTE: `https://statsnet.co/mcp` · Registry: `io.github.usenetstate/statsnet`.
 - **[🧲 Magg 🧲](https://github.com/sitbon/magg)** - A meta-MCP server that acts as a universal hub, allowing LLMs to autonomously discover, install, and orchestrate multiple MCP servers - essentially giving AI assistants the power to extend their own capabilities on-demand.
 - **[Make](https://github.com/integromat/make-mcp-server)** - Turn your Make scenarios into callable tools for AI assistants.
 - **[Maven](https://github.com/Bigsy/maven-mcp-server)** - Tools to query latest Maven dependency information
